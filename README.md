@@ -8,6 +8,7 @@ A modified version of the racket wrapper for the discord API for people who are 
 
 # Design Notes
 [Official Notes](https://github.com/simmsb/racket-cord#design-notes)
+
 The library is focused on only a couple things and doing those things properly:
 1. Providing some ease of use facilities for interracting with the api
 
