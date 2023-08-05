@@ -9,9 +9,9 @@ A modified version of the racket wrapper for the discord API for people who are 
 # Design Notes
 [Official Notes](https://github.com/simmsb/racket-cord#design-notes)
 
-The library is focused on only a couple things and doing those things properly:
+This library modification is focused on only a couple things and doing those things properly:
 1. Providing some ease of use facilities for interracting with the api
-2. Keeping the api definition at an available version
+2. Keeping the api definition at an available version for now, till they update it
 
 There is nearly no caching of state in the origian client, so I decided to write some. 
 With that, came along some other modifications, I guess.
