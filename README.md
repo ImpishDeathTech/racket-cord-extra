@@ -2,7 +2,7 @@
 
 A modified version of the racket wrapper for the discord API for people who are lazy.
 
-[racket-cord official git](https://github.com/simmsb/racket-cord)
+[Official Git](https://github.com/simmsb/racket-cord)
 
 [Official Docs](https://docs.racket-lang.org/racket-cord/index.html)
 
